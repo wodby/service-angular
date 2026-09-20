@@ -2,7 +2,7 @@ name: angular
 type: service
 from: nginx
 fromVersionConstraint: "^2.0.0"
-fromVersion: "2.0.0"
+fromVersion: "2.0.1"
 title: Nginx (Angular)
 labels:
 - angular
